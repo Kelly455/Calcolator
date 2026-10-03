@@ -18,7 +18,7 @@ columns for a more natural calculator design.
 - CSS3
 - JavaScript (vanilla, no frameworks or libraries)
 
-##How to Run
+## How to Run
 1. Clone or download this repository
 2. Open index.html in a web browser
 3. No installation, dependencies, or build process is required
